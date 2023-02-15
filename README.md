@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# MY PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Frontend Design of a Portfolio Web App.
+It was developed using React.js and other packages that work with React. 
+You find out about them look in package.json file
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
